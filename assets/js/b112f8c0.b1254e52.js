@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkemily_page=self.webpackChunkemily_page||[]).push([[795],{5841:function(e){e.exports=JSON.parse('{"allTagsPath":"/emilyPage/blog/tags","slug":"/emilyPage/blog/tags/facebook","name":"facebook","count":1,"permalink":"/emilyPage/blog/tags/facebook"}')}}]);
